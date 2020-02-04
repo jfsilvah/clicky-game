@@ -1,0 +1,9 @@
+img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+img:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
