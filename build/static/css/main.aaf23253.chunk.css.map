@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,IACE,eAAgB,CAChB,gBACF,CAEA,UACE,4BAA6B,CAC7B,oBACF","file":"main.aaf23253.chunk.css","sourcesContent":["img {\n  max-width: 200px;\n  max-height: 200px;\n}\n\nimg:hover {\n  -webkit-transform: scaleX(-1);\n  transform: scaleX(-1);\n}"]}
