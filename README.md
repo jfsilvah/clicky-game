@@ -1,11 +1,18 @@
-<h1> Simpson's Memory Game </h1>
+# Simpson's Memory Game
 
-<h2> Detail </h2>
-<ul>
-  <li> Test your memory with the clicky game </li>
-  <li> You can only click one character to avoid loosing the game</li>
-  <li> There is a point counter to keep track of points in the current game </li>
-  <li> There is also a highest point counter to keep track of the highest scored game during that session </li>
-</ul>
+## Overview 
 
+Memory game developed in React.js. You will need to click on every image without selecting the same twice and trying to choose the 12 characters.
 
+![Screenshot](public/screenshot.jpg)
+
+## Technologies used to develop the app
+- React.js
+- CSS
+- JSON
+
+## App Link
+https://jfsilvah.github.io/clicky-game/
+
+## Author
+ISC Francisco Silva
